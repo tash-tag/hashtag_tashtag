@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tashtag-code
+- 👋 Hi, I’m @tash-tag
 - 🌱 I’m currently learning coding at Coder Academy
 
 <!---
